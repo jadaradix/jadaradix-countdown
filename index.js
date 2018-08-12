@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const countdown = require('./countdown.js')
 
 countdown()
