@@ -1,6 +1,6 @@
 {
   "name": "jadaradix-countdown",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Shows the number of days until the end of the year.",
   "main": "./index.js",
   "preferGlobal": true,
