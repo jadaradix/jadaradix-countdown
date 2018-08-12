@@ -8,7 +8,7 @@ Prints the number of days until the end of the year in ASCII art.
 npm i -g jadaradix-countdown
 ```
 
-(If this fails on macOS, try this)[https://stackoverflow.com/a/27705973]:
+[If this fails on macOS, try this](https://stackoverflow.com/a/27705973):
 
 ```
 brew install cairo
@@ -28,5 +28,5 @@ npm test
 ## Add to `.bash_profile` or `.bashrc`
 
 ```
-echo "jadaradix-countdown" >> ".bash_profile"
+echo "jadaradix-countdown" >> ~/.bash_profile
 ```
