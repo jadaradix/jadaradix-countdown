@@ -2,7 +2,7 @@
 
 Prints the number of days until the end of the year in ASCII art.
 
-![No slacking.](screenshots/screenshot.png?raw=true)
+![No slacking.](images/screenshot.png?raw=true)
 
 ## Install
 
