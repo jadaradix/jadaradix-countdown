@@ -1,0 +1,31 @@
+{
+  "name": "jadaradix-countdown",
+  "version": "0.0.1",
+  "description": "Shows the number of days until the end of the year.",
+  "main": "index.js",
+  "dependencies": {
+    "ascii-art": "^1.4.3"
+  },
+  "devDependencies": {
+    "jest": "^23.5.0",
+    "jest-tobetype": "^1.1.0",
+    "standard": "^11.0.1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadaradix/jadaradix-countdown.git"
+  },
+  "author": "James Garner <j@jada.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jadaradix/jadaradix-countdown/issues"
+  },
+  "homepage": "https://github.com/jadaradix/jadaradix-countdown",
+  "jest": {
+    "setupTestFrameworkScriptFile": "<rootDir>/setupTest.js"
+  }
+}
