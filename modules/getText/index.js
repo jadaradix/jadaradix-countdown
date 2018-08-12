@@ -1,5 +1,6 @@
+const path = require('path')
 const asciiArt = require('ascii-art')
-asciiArt.Figlet.fontPath = './fonts/'
+asciiArt.Figlet.fontPath = path.join(__dirname, '..', '..', 'fonts/')
 
 const getText = (text) => {
   return new Promise((resolve, reject) => {
