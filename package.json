@@ -8,12 +8,12 @@
     "jadaradix-countdown": "./index.js"
   },
   "dependencies": {
-    "ascii-art": "^1.4.3"
+    "ascii-art": "^1.5.1"
   },
   "devDependencies": {
-    "jest": "^23.5.0",
-    "jest-tobetype": "^1.1.0",
-    "standard": "^11.0.1"
+    "jest": "^24.9.0",
+    "jest-tobetype": "^1.2.3",
+    "standard": "^14.3.1"
   },
   "scripts": {
     "start": "node index.js",
